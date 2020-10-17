@@ -1,3 +1,4 @@
+## Spam or Ham Classifier- Project Description ##
 This project is an ML Binary Classifier that predicts whether a message should be considered 'spam' or not. 
 I implemented the Naive Bayes Algorithm and compared P(spam | {words}) and P(not spam | {words}).
 
